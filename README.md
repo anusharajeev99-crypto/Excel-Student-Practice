@@ -24,7 +24,8 @@ I am a student currently learning Microsoft Excel to build my skills in data han
 - Task 2: Formatting  
 - Task 3: Sorting  
 - Task 4: Formulas  
-- Task 5: Tables  
+- Task 5: Tables
+- Task 6: Graph  
 
 ---
 
